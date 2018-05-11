@@ -1,0 +1,13 @@
+https://bokeh.pydata.org/en/latest/docs/reference/colors.html
+
+mediumpurple
+skyblue
+salmon
+hotpink
+sandybrown
+darkseagreen
+cornflowerblue
+
+darkmagenta
+springgreen
+deeppink
