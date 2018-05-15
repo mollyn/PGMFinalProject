@@ -15,6 +15,7 @@ from bokeh.io import output_notebook
 from bokeh.models.ranges import FactorRange, Range1d
 from bokeh.models.glyphs import *
 from bokeh.colors import *
+from bkcharts import HeatMap
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 NECESSARY FILE PATHS
